@@ -3,6 +3,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DB {
+    //mysql path
     private static String url = "jdbc:mysql://localhost:3306/bms";
     private static String user = "root";
 
